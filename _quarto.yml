@@ -97,7 +97,8 @@ book:
       - contents/acknowledgements/acknowledgements.qmd
       - contents/contributors.qmd
       - contents/copyright.qmd
-      - contents/about.qmd
+      - contents/about/about.qmd
+      - contents/instructors/instructors.qmd
     - text: "---"
     - part: MAIN
     - part: Fundamentals
